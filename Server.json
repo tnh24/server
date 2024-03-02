@@ -1,4 +1,4 @@
-{
+[{
   "vless": "df4674da-db7c-47ef-ac6f-1a57e7584ef9",
   "server": "sg1.servervless.de",
   "port": 80,
@@ -22,3 +22,4 @@
   "alpn": "",
   "remarks": "sshocean-server"
 }
+]
