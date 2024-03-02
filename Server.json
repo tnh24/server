@@ -1,0 +1,24 @@
+{
+  "vless": "df4674da-db7c-47ef-ac6f-1a57e7584ef9",
+  "server": "sg1.servervless.de",
+  "port": 80,
+  "type": "ws",
+  "path": "/?ed=2048",
+  "encryption": "none",
+  "sni": "sg1.servervless.de",
+  "host": "sg1.servervless.de",
+  "alpn": "",
+  "remarks": "sshocean-test"
+}
+{
+  "vless": "47e80af1-e0cf-4434-9b23-ad4c0b4b73cf",
+  "server": "hk4.servervless.de",
+  "port": 80,
+  "type": "ws",
+  "path": "/?ed=2048",
+  "encryption": "none",
+  "sni": "hk4.servervless.de",
+  "host": "hk4.servervless.de",
+  "alpn": "",
+  "remarks": "sshocean-server"
+}
